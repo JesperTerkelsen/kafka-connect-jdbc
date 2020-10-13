@@ -38,7 +38,7 @@
         <project.package.home>target/${project.artifactId}-${project.version}-package</project.package.home>
         <required.maven.version>3.2</required.maven.version>
         <easymock.version>4.0.1</easymock.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <kafka.version>2.0.1</kafka.version>
         <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
         <mockito-all.version>1.10.19</mockito-all.version>
